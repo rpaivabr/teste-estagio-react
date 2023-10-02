@@ -28,4 +28,4 @@ If you are developing a production application, we recommend updating the config
 
 ## Link Demo
 
-Exemplo: [Demo](https://teste-site-de-receitas.vercel.app/)
+Exemplo: [Demo](https://teste-estagio-react.vercel.app/)
